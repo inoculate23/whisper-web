@@ -20,4 +20,6 @@ audio::-webkit-media-controls-panel {
 #logo {
     margin-bottom: 0px;
     margin-left: 45%;
+        margin-right: 45%;
+
 }
