@@ -17,9 +17,24 @@ audio::-webkit-media-controls-panel {
     width: 41rem /* 656px */;
     max-width: 95vw;
 }
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.language-container {
+  display: flex;
+  gap: 20px;
+}
+
 #logo {
-    margin-bottom: 0px;
-    margin-left: 45%;
-        margin-right: 45%;
+  position:relative;
+  margin-left:40%;
+  margin-right:40%;
+  margin-top: 12%;
+}
+  
 
 }
