@@ -9,7 +9,7 @@ body,
 }
 
 audio::-webkit-media-controls-panel {
-    background-image: url('../public/tiles/png';
+    background-image: url('https://inoculate.media/assets/tiles.png');
     background-repeat:true;
 }
 
