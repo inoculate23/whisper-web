@@ -6,7 +6,7 @@ html,
 body,
 #root {
     height: 100%;
-      background-image: url('https://inoculate.media/assets/tiles.png');
+      background-image: url('/tiles.png');
     background-repeat:true;
 }
 
