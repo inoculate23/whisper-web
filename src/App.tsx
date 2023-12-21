@@ -7,7 +7,6 @@ function App() {
 
     return (
         
-     <img id="logo" src="https://inoculate.media/assets/logo_200.png" border="0px" width="200px" height="200px" />
    
         <div className='flex justify-center items-center min-h-screen'>
             <div className='container flex flex-col justify-center items-center'>
