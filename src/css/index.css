@@ -6,11 +6,12 @@ html,
 body,
 #root {
     height: 100%;
+      background-image: url('https://inoculate.media/assets/tiles.png');
+    background-repeat:true;
 }
 
 audio::-webkit-media-controls-panel {
-    background-image: url('https://inoculate.media/assets/tiles.png');
-    background-repeat:true;
+  background-color: white;
 }
 
 .container {
