@@ -7,7 +7,7 @@ body,
 #root {
     height: 100%;
       background-image: url('/tiles.png');
-    background-repeat:true;
+    background-size: cover;
 }
 
 audio::-webkit-media-controls-panel {
