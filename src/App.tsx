@@ -1,15 +1,18 @@
 import { AudioManager } from "./components/AudioManager";
 import Transcript from "./components/Transcript";
 import { useTranscriber } from "./hooks/useTranscriber";
+import logo from '/logo.png'; // Tell webpack this JS file uses this image
+console.log(logo); 
 
 function App() {
     const transcriber = useTranscriber();
 
     return (
-        
    
         <div className='flex justify-center items-center min-h-screen'>
             <div className='container flex flex-col justify-center items-center'>
+                   <img src={logo} alt="Logo" />;
+
          <h2 className='mt-3 mb-5 px-4 text-center text-1xl font-semibold tracking-tight text-slate-900 sm:text-3xl'>
            Haawke Neural Technology
              </h2>
