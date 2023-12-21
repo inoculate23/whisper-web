@@ -11,7 +11,7 @@ function App() {
    
         <div className='flex justify-center items-center min-h-screen'>
             <div className='container flex flex-col justify-center items-center'>
-                   <img src={logo} alt="Logo" />;
+                   <img src={logo} height="220px" alt="Logo" />;
 
          <h2 className='mt-3 mb-5 px-4 text-center text-1xl font-semibold tracking-tight text-slate-900 sm:text-3xl'>
            Haawke Neural Technology
