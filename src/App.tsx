@@ -11,7 +11,7 @@ function App() {
    
         <div className='flex justify-center items-center min-h-screen'>
             <div className='container flex flex-col justify-center items-center'>
-                   <img src={logo} height="220px" alt="Logo" />;
+                   <img src={logo} width="220px" alt="Logo" />;
 
         
                 <h1 className='text-5xl font-extrabold tracking-tight text-slate-900 sm:text-7xl text-center'>
