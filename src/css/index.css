@@ -9,7 +9,8 @@ body,
 }
 
 audio::-webkit-media-controls-panel {
-    background-color: white;
+    background-image: url('../public/tiles/png';
+    background-repeat:true;
 }
 
 .container {
